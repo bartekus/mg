@@ -1343,7 +1343,7 @@ body {
   text-align: center;
   flex-wrap: nowrap;
   -webkit-flex-wrap: nowrap;
-  background-color: #374162;
+  /*background-color: #374162;*/
 }
 .cid-logopedia .navbar-toggleable-sm .nav-dropdown .dropdown-submenu {
   margin-left: 0;
@@ -1458,7 +1458,7 @@ body {
 }
 
 svg path {
-  fill: #19C3FF !important;
+  fill: #CB7EC4 !important;
 }
 
 svg:hover path {
@@ -1786,23 +1786,23 @@ svg:hover path {
   color: #fff;
 }
 .cid-logopedia .navbar {
-  background-color: #374162;
+  /*background-color: #374162;*/
 }
 .cid-logopedia .navbar-caption {
   font-size: 16px;
   font-family: 'Rubik', sans-serif;
 }
 .cid-intro {
-  background-image: url("img/background-Intro-AnthonyIntraversato.jpg");
+  background-image: url("img/background-GirlBubbles.jpg");
 }
 .cid-intro .mbr-text,
 .cid-intro .mbr-section-btn {
-  color: #2e2e2e;
+  color: #fff;
 }
 .cid-intro-quote {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #374162;
+  background-color: #282828;
 }
 .cid-intro-quote .mbr-section-subtitle {
   color: #ffffff;
@@ -2136,7 +2136,7 @@ svg:hover path {
 .cid-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #374162;
+  background-color: #282828;
 }
 @media (max-width: 767px) {
   .cid-footer .content {
